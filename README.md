@@ -1,3 +1,5 @@
+Spring Boot 3.1.4
+
 A Simple Spring Boot Email integration to register, otp verification, re generation and login apis
 
 Go to gmail account and generate password 
